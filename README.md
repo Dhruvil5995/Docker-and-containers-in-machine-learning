@@ -20,7 +20,7 @@ The project is organized into the following key files and directories:
 
 1. **Clone the Repository**: Begin by cloning the repository to your local environment using the following command:
 
-   (git clone https://github.com/Dhruvil5995/Docker-and-containers-in-machine-learning.git)
+   git clone https://github.com/Dhruvil5995/Docker-and-containers-in-machine-learning.git
 
 #### Training the Model: To train the machine learning model and save it for future use, execute the following command:
 
